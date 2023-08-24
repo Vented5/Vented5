@@ -3,9 +3,9 @@
 
 <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=vented5" alt="vented5" height="150"/></a> </p>
 
-- 🔭 I’m currently working on [PawSeekers](https://paw-seekers-3gq2w8esf-vented5.vercel.app) project
+- 🔭 I’m currently developing [PawSeekers](https://paw-seekers-3gq2w8esf-vented5.vercel.app) project
 
-- 🌱 I’m currently learning **Express JS**
+- 🌱 I’m learning **Express JS**
 
 - 👯 I’m looking for a project to colaborate during **my internships** 👀
 
