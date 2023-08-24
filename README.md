@@ -1,19 +1,19 @@
-<h1 align="center">Good night there! I'm Jaziel</h1>
-<h3 align="center">A curious developer from México</h3>
+<h1 align="center">Good night there! I am Jaziel</h1>
+<h3 align="center">A curious developer from México 🎉</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vented5" alt="vented5" /></a> </p>
+<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=vented5" alt="vented5" height="150"/></a> </p>
 
-- 🔭 I’m currently working on [PawSeekers](https://paw-seekers-3gq2w8esf-vented5.vercel.app)
+- 🔭 I’m currently working on [PawSeekers](https://paw-seekers-3gq2w8esf-vented5.vercel.app) project
 
 - 🌱 I’m currently learning **Express JS**
 
-- 👯 I’m looking for a project to colaborate on **my internships**
+- 👯 I’m looking for a project to colaborate during **my internships** 👀
 
 - 💬 Ask me about **Node, Express Modules, etc.**
 
 - 📫 How to reach me **venteddiagram@gmail.com**
 
-- ⚡ Fun fact **I tend to appear behind my friends without making any sound 😁👻**
+- ⚡ Fun fact **I tend to appear behind my friends without making any sound 👻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
