@@ -7,7 +7,7 @@
 
 - 🌱 I’m learning **Express JS**
 
-- 👯 I’m looking for a project to colaborate during **my internships** 👀
+<!-- - 👯 I’m looking for a project to colaborate during **my internships** 👀 -->
 
 - 💬 Ask me about **Node, Express Modules, etc.**
 
