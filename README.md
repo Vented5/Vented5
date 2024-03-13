@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently developing [PawSeekers](https://paw-seekers-3gq2w8esf-vented5.vercel.app) project
 
-- 🌱 I’m learning **Express JS**
+- 🌱 I’m learning **Socket.Io in Express and Flutter**
 
 <!-- - 👯 I’m looking for a project to colaborate during **my internships** 👀 -->
 
