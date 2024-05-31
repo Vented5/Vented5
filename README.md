@@ -4,7 +4,7 @@
 
 <center>
     
-<img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611en3ebgts0uauwslc2h3jsok03axlxhbelkvne6af&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Kitten" title="A cute kitten" width="35%" height="35%" />
+<img align="center" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611en3ebgts0uauwslc2h3jsok03axlxhbelkvne6af&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Kitten" title="A cute kitten" width="35%" height="35%" />
 </center> 
 
 
